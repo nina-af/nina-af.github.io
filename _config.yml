@@ -20,6 +20,9 @@ author: Nina Filippova
 ###############################################
 
 navbar-links:
+  Home: "/"
+  Research: "research"
+  Publications: "publications"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
